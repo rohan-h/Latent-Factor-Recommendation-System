@@ -1,2 +1,2 @@
 # Latent-Factor-Recommendation-System
-Implementing Latent Factor Recommendation system using python
+Implementing Latent Factor Recommendation System Algorithm using Python
